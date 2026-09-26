@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on:<br>Data analysis and business intelligence projects using Power BI, SQL, Excel, Python, DAX, and Power Query, with a focus on data cleaning, modeling, visualization, and actionable business insights.<br><br>I'm looking to collaborate on:<br>Data analytics, Power BI dashboard development, SQL analysis, business intelligence, and data visualization projects.<br><br>I'm looking for help with:<br>Collaborating on real-world data analytics and business intelligence projects that involve solving business problems with data.<br><br>I'm currently learning:<br>Deepening my skills in advanced data analysis, business intelligence, DAX, SQL, Python, and data modeling.<br><br>Ask me about:<br>Power BI, SQL, Python, Excel, DAX, Power Query, data visualization, data modeling, and business intelligence dashboards.<br><br>Fun fact:<br>I enjoy transforming complex datasets into clear, actionable insights that support data-driven decisions.
 
 
